@@ -1,0 +1,26 @@
+@startuml mini-atelie-digital
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+!define DEVICONS https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons
+
+!include DEVICONS/react.puml
+!include DEVICONS/nodejs.puml
+!include DEVICONS/mysql.puml
+
+AddElementTag("v1.0", $borderColor="#d73027")
+AddElementTag("v1.1", $fontColor="#d73027")
+
+Person(client, "Cliente")
+Person(Admin, "Administrador", $tags="v1.1")
+
+Container(spa, "spa", "Javascript, React", "Vitrine do Ateliê", $sprite="react")
+Container(spa_admin, "SPA Admin", "Javascript, React", "Tela de controle de conteudo", $tags="v1.1", $sprite="react")
+Container(serve, "API", "Javascript, Node.js 16", "Handles all business logic", $sprite="nodejs")
+
+ContainerDb(db, "DataBase", "Mysql", "Persistir os dados dos novos usuarios do ateliê", $sprite="mysql")
+
+Rel(client, spa, "Uses", "HTTPS")
+Rel(Admin, spa_admin, "Uses", "HTTPS")
+Rel(spa, serve, "Uses", "HTTPS")
+Rel(spa_admin, serve, "Uses", "HTTPS")
+Rel(serve, db, "Reads/Writes")
+@enduml

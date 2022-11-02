@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="860px" preserveAspectRatio="none" style="width:340px;height:860px;background:#FFFFFF;" version="1.1" viewBox="0 0 340 860" width="340px" zoomAndPan="magnify"><defs/><g><!--MD5=[4a65e84059005d12693a083370a06717]
+entity client--><g id="elem_client"><rect fill="#08427B" height="100.5938" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="81" x="33.5" y="7"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="58" x="45" y="28.1387">«person»</text><image height="48" width="48" x="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII=" y="30.9688"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="61" x="43.5" y="93.8203">Cliente</text></g><!--MD5=[97ab183161fd5d1db7fba7485cf76add]
+entity Admin--><g id="elem_Admin"><rect fill="#08427B" height="100.5938" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="144" x="183" y="7"/><text fill="#D73027" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="98" x="206" y="28.1387">«v1.1»«person»</text><image height="48" width="48" x="231" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACBUlEQVR4Xu2YPU4DMRBGU+4FOAEFFRIQQOFHCT8VBaKhSkOFhERDlYaWE3ABTsAJOAEn4Do8YQlt9rO9Y3uXbCSkV6DV2vMYz9jejKqL50Ex0kerpUhoNr1/mVy9HUzf9yfwenj5cHy7efakb9rJFJqfzD/3tr92tryguDt71FEWkoU2zhckQyUUsqXDW0kTwiaSGGVxdKOTxEkTMuamDour80RIEGIJNJ4F8qqzhbAKMalGMkIn6oQhrEJkXiPZ0QlDWIXoZA1jhx1L5/RiFUpqLsW+BViFNEYS9v5fW6GP8VjD2LHvRlYhDk4NY6f7oi5pexpCJwxhFaoKGs1eQFWS0LCODkfG9nh9eqfzREgT4n9Najf7fvhLmpDDmKfU3DhyhIBgkVSxRyTVTZ1MIQcXZxaF8OQMuGawO2SrOIqE+mBthfjaom5YIHY5aP3K4WX3JovIuWFfx3YhJLz1y0NXNMTDD/iDl0M9yHPLiRYTYnz2cRECrXi2gkLZB0UrpDbyue0XKjnbLZD4UJ48QlSDTtE5rJ2G9guFqrJzvGdLU+hv0uOgmNqF6GQd2R9a3U0h75bTH3r5bwrpmF7R2+2SUMkvCnlwUxiWkDb/v9AygxNqqaGq4GswD/0saQr1fazW8R6xTSFgb9DBncMO7L12eoSqn2Lidsbh1xNelZjQChmc0DdrRolVw57/TgAAAABJRU5ErkJggg==" y="30.9688"/><text fill="#D73027" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="124" x="193" y="93.8203">Administrador</text></g><!--MD5=[33573e971ff506c0f246109ca3fd77bd]
+entity spa--><g id="elem_spa"><rect fill="#438DD5" height="147.1563" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="134" x="7" y="205"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="74" x="37" y="226.1387">«container»</text><image height="48" width="48" x="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAADHUlEQVR4Xu2YT4oVMRDG5245gBd4B5gLzAE8gK5ciTsXs3D5dq7EneDGhcgThAEZGBhQVFAEof3oH68oq5J0Rtt/0OHj0Z1UJV/qX9LvpNx5+U/hJHf9XWyElrARWsJ/Tuju48vzZ9f6PX34Jo96SMCE82gHo4R2D15//PJtcu1w9blKS50a8pKX77/euvcqS1YxSog17j+9ErOzRxf7F+9YTDbwYtavB4lJWCp6fX7xKc9ZxRAhzZsn1aZhSb+96lfyXvLJ4YP6B400ROj2/q1mrEaDLIRTBAyTZVCXwfJQxhAhUenMCKcpuc8gxdZ+MlYgZCGshzxa5jBfmRA2128eIj7kKcK5Grwd9YwhQmxR+RL6QwbpoSNWrREZQ4QEzShj8Ezm40f6sRDWgpOWt7RaP8sEqmKoeItNWlLRr5DnrGKBkCyBI6xpARmDJFdayVqCdi/wbIVAYtK1+q4H9YQSldEkJCo+fYhZEps6qSWzFoAuQUMASd1mE8tOPNUJWWnxe9IWIYHNbFLZRuwFixKSgCogFfOXprKzJcc+qBBCJ58AZqTJBbh4eKdYrSKQEQ7lW9NirWohjYT85gLwFA2uMkm4AugVO2VhDzv48lAkxJ5aRRln2Y45E0Iz3U6pNN3suJsRYls3IlQ1tulmr0VCHZcxRPORbp3T7DL6+y4rx73ldIuEirtRBOmfCGrLeT+PBXXoBxVC5Vg8WNhoWcElkrxbSXv/Oh2jJ6S9HS/ZWaBOqMwOshqtSS2NmZfOrAUojHiKvUndl9lWjJYOIUAp84ESjg7x3s0nBtCredyToGmHHSpggZABf/mzabAd1j1cgerY5AK5HD+7WFIGk1UEOxb4cAvXjzxtFUOEWkUMTuGClq+q61/QOnfQcIX1VhxRzxgi9IuXfAycLVfFCoTsrtIqLesT6syIp/ofiv39BAwRIsvCuW0nAP2SIagP6SJFf/VEyxgiVNwnzm7+5GidAOa+/Y9/NrTCK2OUkAyAU6y1rsan6e8YVcVB85RxQuBs/hxTAi8uQOU8/31/WP0xbISWsBFawkZoCd8BxQnrYvxstngAAAAASUVORK5CYII=" y="228.9688"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="31" x="58.5" y="291.8203">spa</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="114" x="17" y="306.7324">[Javascript, React]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="72" y="322.5576"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="20.5" y="338.8545">Vitrine do Ateliê</text></g><!--MD5=[673d59e3c4d26d529b2c38d38f516545]
+entity spa_admin--><g id="elem_spa_admin"><rect fill="#438DD5" height="163.4531" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="158" x="176" y="197"/><text fill="#D73027" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="114" x="198" y="218.1387">«v1.1»«container»</text><image height="48" width="48" x="231" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAADFklEQVR4Xu2YPYsUQRCG79+YCgZGYtCRIphNZHAayYFGGoggCIImwl28sRgaGG1iYiYYyv4dX+Zhi7Kqu6dPxy8YeFlmuquq366v7tmT8vbbP4WTPPR3sRFawkZoCf85oRcPzy/uPdPv6fOPedZDAiacZzsYJTS9/PT1+rXD1SuGfbldpaVBTXnJzzdu3nn9JUtWMUqINd48eCVmZ0/f76ZHLCYfeDEb14PEJCwVvX64NWWbVQwRkt1sVJuGJeP2ql/Je8l3d+9rfNBJQ4SePN7JYjUb5CGCIuCYLIO6HJanMoYIiUrHIpxy+AxSbO0nYwVClsJ6yLNlTvOVCeFz/eYp8kORIp2rydtRzxgixBZVL2E8VJAeOmLVHpExREiQRTmDZyqfODKOh/AWnLS8ldX6VSbQFUPHW4S0pKJfIdusYoGQPEEgDFpAzqDIVVbylqDdCzxbI5CYdK2/60EjoUVlNAmJii8fcpbCpk9qyawFoEvSkEBSN2ti2cmnOiFrLX5P2iIk8JkZlW/EXrAsoQjoAlKxeMmUnS0590GFEDr5BDAnHVyCi4cPivUqEhnh0L5lFm9VG2kk5DcXQKQAXOWScAXQK37Kwh528OWpSIg9tZoywbIdcyYEmG6nVZpuDtzlCLGtSxGqOtt0c9QioU7ImAI+0z0bn79Z2IO95XKLhIq7UQTpn0hqq3lvx5I6jIMKoXJsHixstKzhkkk+rJS9fz0csyeUvR0vOVigTqjMAbIeLaNWxthlMGsBGiORYm9S9222laOlQwjQynyihKNDvKf5xAB6tYh7EkA77FABC4QMxMufTYPYr3u4AvWxg0vkcvzsYkk5TF4R7Fjgwy1cP7LZKoYItZoYnMIFLV9V17+gde6g4QrrvTiinjFE6Bcv+Tg4e66KFQjZXaXVWtYn1LFIpPofiv39BAwRosrCuW0nAOOSIan36SLFePVEyxgiVNwnzjR/crROAAvf7sc/G1rplTFKSA4gKIbW1fg0/R2jrjjonjJOCJzNn2Mq4MUF6JwXv+8Pqz+GjdASNkJL2Agt4TtsvBJs5JtH1gAAAABJRU5ErkJggg==" y="220.9688"/><text fill="#D73027" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="95" x="207.5" y="283.8203">SPA Admin</text><text fill="#D73027" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="114" x="198" y="298.7324">[Javascript, React]</text><text fill="#D73027" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="253" y="314.5576"> </text><text fill="#D73027" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="134" x="186" y="330.8545">Tela de controle de</text><text fill="#D73027" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67" x="221.5" y="347.1514">conteudo</text></g><!--MD5=[d226909cd78b84a5486e9bc3f7e97d1c]
+entity serve--><g id="elem_serve"><rect fill="#438DD5" height="147.1563" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="197" x="65.5" y="449"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="74" x="127" y="470.1387">«container»</text><image height="48" width="48" x="140" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAABrklEQVR4Xu2VQUpDMRCG3916AC/gAbyAB/AAunIl7ly4cNmdK3EnuHEhUkEoSKFQUFRQBCF+9K/TkPR1sijqYsJPSTLJzDcvk7Qb7N/+K3X11N8qgDwFkKcA8hRAngLIUwB5CiBPAeRpk0Cj6fvw5mnr8K42tWvDQCmli9FLbWpXAHlaAnH2e8PHeoW0fXy/c/JQz5uV7X1AbFxTWAfnE7bbcAF0dDlN84bTOvDp1UzW6/FbvrmwquVALGaL5glRbCR/LgHh8IA02bHn9eMr90hjncy7Z+Paaq7xWFsNyJK0Nnn+tGwJgXODA0NwHV9Mq/k2ea5aV2Svhl9ZLXs61jcgY8WJTjP9JMMJqsMvVlAQTMAsgXTMRtAORDANixoSkGgUxV4pAxIKYlgCFQTtQAwJgERQALFGZZsXXw5ECJUa57UCyA5+DZB9EjumvJIMCFCzEsVoBKQyVd0QlHpCC6DiZmHGhQ3rS2R3mA7DPmt+xVKWhkREaPTQiE/QTQ+jAq98EQZz15j6rOQ96v+P080nZ7M2Af2mAshTAHkKIE8B5CmAPAWQpwDyFECevgEQhdI9tPO0MwAAAABJRU5ErkJggg==" y="472.9688"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="30" x="149" y="535.8203">API</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="145" x="91.5" y="550.7324">[Javascript, Node.js 16]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="162" y="566.5576"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="177" x="75.5" y="582.8545">Handles all business logic</text></g><!--MD5=[7468467f3b6b392f1d176d828c753b77]
+entity db--><g id="elem_db"><path d="M54.5,681 C54.5,671 164,671 164,671 C164,671 273.5,671 273.5,681 L273.5,833.4531 C273.5,843.4531 164,843.4531 164,843.4531 C164,843.4531 54.5,843.4531 54.5,833.4531 L54.5,681 " fill="#438DD5" style="stroke:#3C7FC0;stroke-width:0.5;"/><path d="M54.5,681 C54.5,691 164,691 164,691 C164,691 273.5,691 273.5,681 " fill="none" style="stroke:#3C7FC0;stroke-width:0.5;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="74" x="127" y="706.1387">«container»</text><image height="48" width="48" x="140" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACGklEQVR4Xu2YP0oDQRTGc7c5gBfwAF7AA3gArazEzsLCMp2V2Ak2FiIRhIAEAgFFBUUQ1h/zYJB9u/NespNdiw0fYZl9yf7yzTf/MgmH9/9KE900rEYgSyOQpRHIUjPQ0eXi/esH3c4/uNYF21Mz0OL1e3r3cjB9vpq9VVUFGVg7xw+6sriagaBBcr17+ihYvGbLz/Ob1f7FXH+klJqBgMAV3lML9sBxcr2ESci2hNUMhOTZuh3tnT2JZ8nFgmoFQphEjHS7iFsUAF02WzkgHkm6dXsSKABRU5ApBxSiSWZW6L5a4LrIACJJTEW6vSZqSvlkAPEMwut5En3XNgjWkgEUYo94RhNdVmTc2UBikici9C+VTAr6ll82EGJ2dv50ktSx41xA/HQ6TrdrMSQxyRyYGbmAsMe/5ndMtwuIjvAno6NJLiDnyE/qYpINJKNMt2fUxaT1gGRbomu0NjbJBgqxy2QeIt1cM+h0TU1kzllZkwuIpUr2IaS7ii9PpPz0f+UCIg0wyeLAA8BiqtRlWhTLYSGzr6rJBRRiJsQbsCRJHpNEsq/iGzzrjxdI9mLJfzxzzt1J4pZplRdIi6/2z5YiHJrFc4u+lbQ50LqCBl8l6ZmFqA8ggaji4UnOn5n89QfknLj7AApx2wmTmejQG1CIf2DAZI7N/oBCXE/MLWWvQKL80WoAoBCn2bY5bBigjEYgSyOQpRHI0i9RwF9GQ0QZTAAAAABJRU5ErkJggg==" y="708.9688"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="84" x="122" y="771.8203">DataBase</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="44" x="142" y="786.7324">[Mysql]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="162" y="802.5576"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="199" x="64.5" y="818.8545">Persistir os dados dos novos</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="122" x="103" y="835.1514">usuarios do ateliê</text></g><!--MD5=[9cdea4d2805f5f73b2b1b0c8fd8bc7b7]
+link client to spa--><g id="link_client_spa"><path d="M74,108.19 C74,134.26 74,166.86 74,196.47 " fill="none" id="client-to-spa" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="74,204.73,77,196.73,71,196.73,74,204.73" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="35" x="82" y="150.1387">Uses</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="49" x="75" y="164.1074">[HTTPS]</text></g><!--MD5=[f9d93409e5637041d076983df206f446]
+link Admin to spa_admin--><g id="link_Admin_spa_admin"><path d="M255,108.19 C255,131.97 255,161.17 255,188.59 " fill="none" id="Admin-to-spa_admin" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="255,196.65,258,188.65,252,188.65,255,196.65" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="35" x="263" y="150.1387">Uses</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="49" x="256" y="164.1074">[HTTPS]</text></g><!--MD5=[c6987c929bdfe1ca6a59f007483b9451]
+link spa to serve--><g id="link_spa_serve"><path d="M101,352.11 C111.46,380.22 123.47,412.52 134.18,441.31 " fill="none" id="spa-to-serve" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="137.02,448.94,137.0468,440.396,131.4222,442.4852,137.02,448.94" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="35" x="133" y="402.1387">Uses</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="49" x="126" y="416.1074">[HTTPS]</text></g><!--MD5=[7feadeb2d95426bfadb241d5cf04ca47]
+link spa_admin to serve--><g id="link_spa_admin_serve"><path d="M224.7,360.08 C214.91,386.11 204.06,414.96 194.28,440.99 " fill="none" id="spa_admin-to-serve" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="191.41,448.6,197.0334,442.1674,191.4171,440.056,191.41,448.6" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="35" x="221" y="402.1387">Uses</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="49" x="214" y="416.1074">[HTTPS]</text></g><!--MD5=[6c99ad1ea0f10d51c50e97d0ba50e0ea]
+link serve to db--><g id="link_serve_db"><path d="M164,596.11 C164,617.23 164,640.6 164,662.8 " fill="none" id="serve-to-db" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="164,670.92,167,662.92,161,662.92,164,670.92" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="95" x="165" y="638.1387">Reads/Writes</text></g><!--MD5=[24f35fda2bda81b5ba26451d17d75dd7]
+@startuml mini-atelie-digital
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+!define DEVICONS https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons
+
+!include DEVICONS/react.puml
+!include DEVICONS/nodejs.puml
+!include DEVICONS/mysql.puml
+
+AddElementTag("v1.0", $borderColor="#d73027")
+AddElementTag("v1.1", $fontColor="#d73027")
+
+Person(client, "Cliente")
+Person(Admin, "Administrador", $tags="v1.1")
+
+Container(spa, "spa", "Javascript, React", "Vitrine do Ateliê", $sprite="react")
+Container(spa_admin, "SPA Admin", "Javascript, React", "Tela de controle de conteudo", $tags="v1.1", $sprite="react")
+Container(serve, "API", "Javascript, Node.js 16", "Handles all business logic", $sprite="nodejs")
+
+ContainerDb(db, "DataBase", "Mysql", "Persistir os dados dos novos usuarios do ateliê", $sprite="mysql")
+
+Rel(client, spa, "Uses", "HTTPS")
+Rel(Admin, spa_admin, "Uses", "HTTPS")
+Rel(spa, serve, "Uses", "HTTPS")
+Rel(spa_admin, serve, "Uses", "HTTPS")
+Rel(serve, db, "Reads/Writes")
+@enduml
+
+@startuml mini-atelie-digital
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam LegendBorderColor transparent
+skinparam LegendBackgroundColor transparent
+skinparam LegendFontColor #FFFFFF
+
+skinparam shadowing<<legendArea>> false
+skinparam rectangle<<legendArea>> {
+    backgroundcolor #00000000
+    bordercolor #00000000
+}
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam queue {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam actor {
+    StereotypeFontSize 12
+    shadowing false
+    style awesome
+}
+
+skinparam person {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 6
+    StereotypeFontColor transparent
+    BorderStyle dashed
+}
+
+skinparam package {
+    StereotypeFontSize 6
+    StereotypeFontColor transparent
+    FontStyle plain
+    BackgroundColor transparent
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam database<<boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam queue<<boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam actor<<boundary>> {
+    FontColor transparent
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam person<<boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam package<<boundary>>StereotypeFontColor transparent
+skinparam rectangle<<boundary>>StereotypeFontColor transparent
+
+
+skinparam rectangle<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam database<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam queue<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam actor<<enterprise_boundary>> {
+    FontColor transparent
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam person<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam package<<enterprise_boundary>>StereotypeFontColor transparent
+skinparam rectangle<<enterprise_boundary>>StereotypeFontColor transparent
+
+
+
+skinparam rectangle<<system_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam database<<system_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam queue<<system_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam actor<<system_boundary>> {
+    FontColor transparent
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam person<<system_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam package<<system_boundary>>StereotypeFontColor transparent
+skinparam rectangle<<system_boundary>>StereotypeFontColor transparent
+
+
+
+skinparam rectangle<<container_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam database<<container_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam queue<<container_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam actor<<container_boundary>> {
+    FontColor transparent
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam person<<container_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam package<<container_boundary>>StereotypeFontColor transparent
+skinparam rectangle<<container_boundary>>StereotypeFontColor transparent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam database<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam queue<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam actor<<person>> {
+    StereotypeFontColor #08427B
+    FontColor #08427B
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam person<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam database<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam queue<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam actor<<external_person>> {
+    StereotypeFontColor #686868
+    FontColor #686868
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam person<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+skinparam database<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+skinparam queue<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+skinparam actor<<system>> {
+    StereotypeFontColor #1168BD
+    FontColor #1168BD
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+skinparam person<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+skinparam database<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+skinparam queue<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+skinparam actor<<external_system>> {
+    StereotypeFontColor #999999
+    FontColor #999999
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+skinparam person<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+
+
+skinparam rectangle<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam database<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam queue<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam actor<<enterprise_boundary>> {
+    FontColor transparent
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam person<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam package<<enterprise_boundary>>StereotypeFontColor transparent
+skinparam rectangle<<enterprise_boundary>>StereotypeFontColor transparent
+
+
+
+skinparam rectangle<<system_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam database<<system_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam queue<<system_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam actor<<system_boundary>> {
+    FontColor transparent
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam person<<system_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam package<<system_boundary>>StereotypeFontColor transparent
+skinparam rectangle<<system_boundary>>StereotypeFontColor transparent
+
+
+
+
+
+
+
+sprite $person [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+0000000000000000000049BCCA7200000000000000000000
+0000000000000000006EFFFFFFFFB3000000000000000000
+00000000000000001CFFFFFFFFFFFF700000000000000000
+0000000000000001EFFFFFFFFFFFFFF80000000000000000
+000000000000000CFFFFFFFFFFFFFFFF6000000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+00000000000001FFFFFFFFFFFFFFFFFFF900000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFF00000000000000
+0000000000000BFFFFFFFFFFFFFFFFFFFF40000000000000
+0000000000000EFFFFFFFFFFFFFFFFFFFF70000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000DFFFFFFFFFFFFFFFFFFFF60000000000000
+0000000000000AFFFFFFFFFFFFFFFFFFFF40000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFE00000000000000
+00000000000000EFFFFFFFFFFFFFFFFFF800000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+000000000000000BFFFFFFFFFFFFFFFF5000000000000000
+0000000000000001DFFFFFFFFFFFFFF70000000000000000
+00000000000000000BFFFFFFFFFFFF500000000000000000
+0000000000000000005DFFFFFFFFA1000000000000000000
+0000000000000000000037ABB96100000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000025788300000000005886410000000000000
+000000000007DFFFFFFD9643347BFFFFFFFB400000000000
+0000000004EFFFFFFFFFFFFFFFFFFFFFFFFFFB1000000000
+000000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFD200000000
+00000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE10000000
+0000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB0000000
+000000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5000000
+000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD000000
+000009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF200000
+00000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF600000
+00000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF800000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00000EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF700000
+000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE100000
+0000008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD3000000
+000000014555555555555555555555555555555300000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+sprite $person2 [48x48/16] {
+0000000000000000000049BCCA7200000000000000000000
+0000000000000000006EFFFFFFFFB3000000000000000000
+00000000000000001CFFFFFFFFFFFF700000000000000000
+0000000000000001EFFFFFFFFFFFFFF80000000000000000
+000000000000000CFFFFFFFFFFFFFFFF6000000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+00000000000001FFFFFFFFFFFFFFFFFFF900000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFF00000000000000
+0000000000000BFFFFFFFFFFFFFFFFFFFF40000000000000
+0000000000000EFFFFFFFFFFFFFFFFFFFF70000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000DFFFFFFFFFFFFFFFFFFFF60000000000000
+0000000000000AFFFFFFFFFFFFFFFFFFFF40000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFE00000000000000
+00000000000000EFFFFFFFFFFFFFFFFFF800000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+000000000000000BFFFFFFFFFFFFFFFF5000000000000000
+0000000000000001DFFFFFFFFFFFFFF70000000000000000
+00000000000000000BFFFFFFFFFFFF500000000000000000
+0000000000000000005DFFFFFFFFA1000000000000000000
+0000000000000000000037ABB96100000000000000000000
+000000000002578888300000000005888864100000000000
+0000000007DFFFFFFFFD9643347BFFFFFFFFFB4000000000
+00000004EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB10000000
+0000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD2000000
+000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE100000
+00003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+0000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF50000
+0003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD0000
+0009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF2000
+000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6000
+000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB000
+001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB000
+001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB000
+001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA000
+000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6000
+0009FFFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFFF2000
+0003FFFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFFD0000
+0000BFFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFF50000
+00003FFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFB00000
+000006FFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFE100000
+0000007FFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFD2000000
+00000004EFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFB10000000
+0000000007DF8FFFFFFFFFFFFFFFFFFFFFF8FB4000000000
+000000000002578888888888888888888864100000000000
+}
+
+sprite $robot [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000005BFFFFFFFFFFFFFFFFFFFFFE9100000000000
+0000000000AFFFFFFFFFFFFFFFFFFFFFFFFFE30000000000
+0000000007FFFFFFFFFFFFFFFFFFFFFFFFFFFE1000000000
+000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000000000
+000000004FFFFFFFFFFFFFFFFFFFFFFFFFFFFFC000000000
+000000005FFFFFFFFFFFFFFFFFFFFFFFFFFFFFD000000000
+000000005FFFFFFFFFFFFFFFFFFFFFFFFFFFFFE000000000
+000000005FFFFFFFFFFFFFFFFFFFFFFFFFFFFFE000000000
+000699405FFFFFFC427FFFFFFFFFC427FFFFFFE009982000
+008FFF705FFFFFE10006FFFFFFFE00007FFFFFE00FFFF100
+00CFFF705FFFFFA00001FFFFFFF900002FFFFFE00FFFF500
+00DFFF705FFFFFB00002FFFFFFFA00003FFFFFE00FFFF500
+00DFFF705FFFFFF4000AFFFFFFFF3000BFFFFFE00FFFF500
+00DFFF705FFFFFFFA8DFFFFFFFFFFA8DFFFFFFE00FFFF500
+00DFFF705FFFFFFFFFFFFFFFFFFFFFFFFFFFFFE00FFFF500
+00DFFF705FFFFFFFFFFFFFFFFFFFFFFFFFFFFFE00FFFF500
+00DFFF705FFFFFFFFFFFFFFFFFFFFFFFFFFFFFE00FFFF500
+00DFFF705FFFFFFFFFFFFFFFFFFFFFFFFFFFFFE00FFFF500
+00DFFF705FFFFFFFFFFFFFFFFFFFFFFFFFFFFFE00FFFF500
+00CFFF705FFFFFF87777777777777777CFFFFFE00FFFF500
+008FFF705FFFFFF100000000000000009FFFFFE00FFFF100
+000699405FFFFFF76666666666666666CFFFFFE009982000
+000000005FFFFFFFFFFFFFFFFFFFFFFFFFFFFFE000000000
+000000005FFFFFFFFFFFFFFFFFFFFFFFFFFFFFE000000000
+000000004FFFFFFFFFFFFFFFFFFFFFFFFFFFFFC000000000
+000000000EFFFFFFFFFFFFFFFFFFFFFFFFFFFF7000000000
+0000000005FFFFFFFFFFFFFFFFFFFFFFFFFFFD0000000000
+00000000004CFFFFFFFFFFFFFFFFFFFFFFFF910000000000
+000000000000011111111111111111111110000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+sprite $robot2 [48x48/16] {
+000000000000000088888888888888880000000000000000
+000000000000000AFFFFFFFFFFFFFFFFA000000000000000
+00000000000000CFFFFFFFFFFFFFFFFFFC00000000000000
+00000000000004EFFFFFFFFFFFFFFFFFFE40000000000000
+0000000000000AFFFFFFFFFFFFFFFFFFFFA0000000000000
+00000000000008FFFFFFFFFFFFFFFFFFFF80000000000000
+00000000000008FFFFFFFFFFFFFFFFFFFF80000000000000
+00000000000008FFFFFFFFFFFFFFFFFFFF80000000000000
+00000000000888FFFFFFFFFFFFFFFFFFFF88800000000000
+00000000008FF8FFFFFFFFFFFFFFFFFFFF8FF80000000000
+00000000008FF8FFFFFFFFFFFFFFFFFFFF8FF80000000000
+00000000008FF8FFFFFFFFFFFFFFFFFFFF8FF80000000000
+00000000008FF8FFFFFFFFFFFFFFFFFFFF8FF80000000000
+00000000008FF8FFFFFFFFFFFFFFFFFFFF8FF80000000000
+00000000008FF8FFFFFFFFFFFFFFFFFFFF8FF80000000000
+00000000000888FFFFFFFFFFFFFFFFFFFF88800000000000
+00000000000008FFFFFFFFFFFFFFFFFFFF80000000000000
+00000000000008FFFFFFFFFFFFFFFFFFFF80000000000000
+00000000000008FFFFFFFFFFFFFFFFFFFF80000000000000
+00000000000008FFFFFFFFFFFFFFFFFFFF80000000000000
+00000000000008FFFFFFFFFFFFFFFFFFFF80000000000000
+00000000000004CFFFFFFFFFFFFFFFFFFC40000000000000
+000000488888848CFFFFFFFFFFFFFFFFC848888884000000
+00000CFFFFFFFFC888888888888888888CFFFFFFFFC00000
+00008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF80000
+0000CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0000
+0008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+0008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+0008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+0008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+0008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+0008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+0008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+0008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+0008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+0008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+0008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+0008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+0008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+0008FFFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFFF8000
+0008FFFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFFF8000
+0008FFFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFFF8000
+0008FFFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFFF8000
+0000CFFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFFC0000
+00008FFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFF80000
+00000CFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFC00000
+000000488887578888888888888888888864688884000000
+000000000000000000000000000000000000000000000000
+}
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam database<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam queue<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam actor<<person>> {
+    StereotypeFontColor #08427B
+    FontColor #08427B
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam person<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+skinparam database<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+skinparam queue<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+skinparam actor<<container>> {
+    StereotypeFontColor #438DD5
+    FontColor #438DD5
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+skinparam person<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+
+skinparam rectangle<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+skinparam database<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+skinparam queue<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+skinparam actor<<external_container>> {
+    StereotypeFontColor #B3B3B3
+    FontColor #B3B3B3
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+skinparam person<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+
+
+
+skinparam rectangle<<container_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam database<<container_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam queue<<container_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam actor<<container_boundary>> {
+    FontColor transparent
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam person<<container_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam package<<container_boundary>>StereotypeFontColor transparent
+skinparam rectangle<<container_boundary>>StereotypeFontColor transparent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sprite $react [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000686300000000003686000000000000000
+00000000000002EFFFFC30000003CFFFFD10000000000000
+0000000000000CF7249FF800009FF9427FB0000000000000
+0000000000002FB00001CFB01CFC20000AF1000000000000
+0000000000005F60000008FDDF90000005F4000000000000
+0000000000006F400000008FF800000004F6000000000000
+0000000000006F40000000CFFC00000003F6000000000000
+0000000000005F5000000AF99FB0000005F5000000000000
+0000000000003F7000007FB00BF7000007F3000000000000
+0000000000000FA00246FFA99AFF73100AF1000000000000
+0000000000000EFCFFFFFFFFFFFFFFFECEE0000000000000
+00000000004BFFFFC9DF82211228FD9BEFFE920000000000
+000000004CFFC9F802FD00000000DF307F9CFFB300000000
+00000008FF9200ED0BF3001441003FC0DE0029FF70000000
+0000009FC200009F8FA004EFFE400AF8F900002CF8000000
+000003FC0000002FFF201EFFFFE102FFF2000001CF200000
+000008F40000000BF9004FFFFFF4009FB00000004F700000
+000008F40000000CF9004FFFFFF4009FC00000004F800000
+000003FC0000003FFF200EFFFFE002FFF2000000CF300000
+0000008FD300009F8FA004EFFE400AF7F900002CF9000000
+00000007FFA300EE0BF4000440004FB0DE002AFF80000000
+000000003BFFDAF802FD00000000DF207FACFFC400000000
+000000000029EFFFC9DF83222238FDACFFFFB40000000000
+0000000000000EEBEFFFFFFFFFFFFFFFCEE0000000000000
+0000000000001FA00036FF9889FF63100AF0000000000000
+0000000000004F7000006FB00BF6000007F3000000000000
+0000000000005F5000000AF99FA0000005F5000000000000
+0000000000006F40000000CFFC00000004F6000000000000
+0000000000006F400000008FF800000004F6000000000000
+0000000000004F60000009FDDF90000006F4000000000000
+0000000000001FB00002CFB01BFC20000BF2000000000000
+0000000000000BF724AFF800008FF9427FC0000000000000
+00000000000001DFFFFB30000003CFFFFE20000000000000
+000000000000000465200000000003686000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<DEV REACT>> White
+sprite $nodejs [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+0000000000000000000000000C9100000000000000000000
+0000000000000000000000000CFA00000000000000000000
+0000000000000000000000000CFA00000000000000000000
+0000000000000000000000000CFA00000000000000000000
+0001500000000230000000021CFA00000310000000062000
+007FFC3000008FFB2000008FFFFA0002BFF7000005938800
+2EFFFFF9004EFFFFF7005EFFFFFA007FFFFFD30094000293
+6FFC8FFF008FFFFFFD00BFFBBFFA00EFF8CFF70170789926
+6FF108FF008FFFFFFD00BFC00CFA00EF8C6F910170999726
+6FF008FF008FFFFFFD00BFD11EFA00EFB622000170982B36
+6FF007FF008FFFFFFC00BFFEFFFA00DFFE60000190937446
+6C30007E0008FFFFA1001AFFFFA1002BFFFC000039501960
+0000000000001AC30000003CC30000004C91000000598100
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<DEV NODEJS>> White
+sprite $mysql [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+00000006EEB6000000000000000000000000000000000000
+0000000D95AFE61000000000000000000000000000000000
+000000099002AFFC84000000000000000000000000000000
+00000002E2000147CFC40000000000000000000000000000
+000000007C00000003AF9000000000000000000000000000
+000000000E5000000005EC10000000000000000000000000
+0000000005D0000000001CD1000000000000000000000000
+0000000000E40000000000AE200000000000000000000000
+00000000007B00000000000BD10000000000000000000000
+00000000001F100000000000CC0000000000000000000000
+00000000000A9000000000002F9000000000000000000000
+000000000001F2000000000007F300000000000000000000
+00000000000089000000000000DC00000000000000000000
+0000000000007A0000000000004F40000000000000000000
+000000000000960000000000000CC0000000000000000000
+000000000000D300000000000004F4000000000000000000
+000000000000F100000000000000CC000000000000000000
+000000000001F0000000000000004F400000000000000000
+000000000001F002E000000000000CC00000000000000000
+000000000000F209F7000000000003F70000000000000000
+000000000000B50DFF1000000000009F7000000000000000
+0000000000004B2F7D80000000000007EE50000000000000
+0000000000000CFF22E100000000000005DC200000000000
+00000000000001C7004A0000000000000007E50000000000
+0000000000000000000530000000000000002C8000000000
+00000000000000000000000000000000000249F600000000
+0000000000000000000000000000000009FFC95100000000
+0000000000000000000000000000000009F4000000000000
+0000000000000000000000000000000000AF500000000000
+000000000000000000000000000000000006FA0000000000
+0000000000000000000000000000000000003DC000000000
+000000000000000000000000000000000000007B00000000
+000000000000000000000000000000000000000130000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<DEV MYSQL>> White
+
+skinparam rectangle<<v1.0>> {
+    BorderColor #d73027
+}
+skinparam database<<v1.0>> {
+    BorderColor #d73027
+}
+skinparam queue<<v1.0>> {
+    BorderColor #d73027
+}
+skinparam actor<<v1.0>> {
+    BorderColor #d73027
+}
+skinparam person<<v1.0>> {
+    BorderColor #d73027
+}
+
+
+skinparam rectangle<<v1.1>> {
+    StereotypeFontColor #d73027
+    FontColor #d73027
+}
+skinparam database<<v1.1>> {
+    StereotypeFontColor #d73027
+    FontColor #d73027
+}
+skinparam queue<<v1.1>> {
+    StereotypeFontColor #d73027
+    FontColor #d73027
+}
+skinparam actor<<v1.1>> {
+}
+skinparam person<<v1.1>> {
+    StereotypeFontColor #d73027
+    FontColor #d73027
+}
+
+
+
+rectangle "<$person>\n==Cliente" <<person>> as client 
+rectangle "<$person>\n==Administrador" <<v1.1>><<person>> as Admin 
+
+rectangle "<$react>\n==spa\n//<size:12>[Javascript, React]</size>//\n\nVitrine do Ateliê" <<container>> as spa 
+rectangle "<$react>\n==SPA Admin\n//<size:12>[Javascript, React]</size>//\n\nTela de controle de conteudo" <<v1.1>><<container>> as spa_admin 
+rectangle "<$nodejs>\n==API\n//<size:12>[Javascript, Node.js 16]</size>//\n\nHandles all business logic" <<container>> as serve 
+
+database "<$mysql>\n==DataBase\n//<size:12>[Mysql]</size>//\n\nPersistir os dados dos novos usuarios do ateliê" <<container>> as db 
+
+client - ->> spa : **Uses**\n//<size:12>[HTTPS]</size>//
+Admin - ->> spa_admin : **Uses**\n//<size:12>[HTTPS]</size>//
+spa - ->> serve : **Uses**\n//<size:12>[HTTPS]</size>//
+spa_admin - ->> serve : **Uses**\n//<size:12>[HTTPS]</size>//
+serve - ->> db : **Reads/Writes**
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 14:01:30 BRT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
